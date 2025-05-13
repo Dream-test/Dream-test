@@ -1,36 +1,36 @@
-# Привет! 👋 
+# Hi everyone!!! 👋 
 
-Я начинающий QA инженер, стремлюсь к созданию качественного программного обеспечения. У меня есть опыт в организации рабочих процессов, а также я активно развиваю свои навыки в тестировании ПО.
-
----
-
-## Обо мне
-- 🌱 Сейчас изучаю: Тестирование ПО, автоматизацию тестирования (JavaScript, Python), безопасность тестирования.
-- 💻 Пишу тесты для: веб-приложений, API и мобильных приложений.
-- 📚 Постоянно учусь и развиваю навыки в автоматизированном тестировании.
-- ⚙️ Интересуюсь: CI/CD, тестированием производительности и исследовательским тестированием.
+I am an aspiring QA engineer with a passion for building quality software. I have experience in organizing workflows, and I am also actively developing my skills in manual and automated software testing.
 
 ---
 
-## 🛠️ Технологии и инструменты
-- **Языки:** Python, JavaScript, Java
-- **Инструменты:** Postman, JUnit, Allure, Git
-- **Тестирование:** Ручное тестирование, автоматизация тестов, тестирование API, UI тестирование
-- **Прочее:** Agile/Scrum, GitHub, GitLab
+## About me
+- 🌱 I actively study: Software testing, test automation (Java, JavaScript, Python), security testing.
+- 💻 I write tests for: web applications, APIs and mobile applications.
+- 📚 Constantly learning and developing skills in automated testing.
+- ⚙️ Interested in: CI/CD, performance testing, security and exploratory testing.
 
 ---
 
-## 💼 Проекты
-### [Название и ссылка]
-- **Описание:**
-- **Инструменты:** 
+## 🛠️ Technologies and tools
+- **Languages:** Python, JavaScript, Java
+- **Tools:** Postman, JUnit, Allure, Git
+- **Testing:** Manual testing, test automation, API testing, UI testing
+- **Other:** Agile/Scrum, GitHub, GitLab
 
 ---
 
-## 📫 Контакты
-- ✉️ Email: 
-- 🔗 LinkedIn:
+## 💼 Projects
+### [Product Store tests](https://github.com/Dream-test/productStoreTests)
+- **Description:** This is the Java-based test automation project for functional testing of web applications "Product Store" https://demoblaze.com/
+- **Tools:** Selenide, JUnit, Gradle, Allure
 
 ---
 
-> 💡 **Ищите QA инженера, который готов учиться и вносить вклад в качество вашего продукта?** Свяжитесь со мной, буду рад сотрудничеству!
+## 📫 Contacts
+- ✉️ Email: nighttramp2@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/valiantsin-stsiapkou-44ab73321/
+
+---
+
+> 💡 **Looking for a QA engineer who is willing to learn and contribute to the quality of your product?** Contact me, I will be happy to cooperate!
