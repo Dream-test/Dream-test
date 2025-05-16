@@ -25,7 +25,7 @@ I am an aspiring QA engineer with a passion for building quality software. I hav
 - **Description:** This is the Java-based test automation project for functional testing of web applications "Product Store" https://demoblaze.com/
 - **Tools:** Selenide, JUnit, Gradle, Allure
 
-### [Analysis of network interaction](https://github.com/Dream-test/myPortfolio/tree/main/Network_analysis)
+### [Analysis of network interaction](https://github.com/Dream-test/myPortfolio/blob/main/Network_analysis/Allegro_pl_networking%20analysis.md)
 - **Description:** This report analyzes browser-server network interactions on the website [allegro.pl](https://allegro.pl).
 - **Tools:** Chrome Browser, DevTools
 
